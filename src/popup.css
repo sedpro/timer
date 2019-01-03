@@ -1,0 +1,33 @@
+body {
+    width: 300px;
+    margin-top: 10px;
+}
+
+img {
+    width: 16px;
+    cursor: pointer;
+    margin-left: 4px;
+}
+
+line {
+    display: block;
+}
+
+duration {
+    cursor: pointer;
+}
+
+#last {
+    color: #ccc;
+    display: flex;
+    align-items: center;
+    margin: 15px 0;
+}
+
+result {
+    cursor: pointer;
+}
+
+#last div {
+    margin-top: 2px;
+}
